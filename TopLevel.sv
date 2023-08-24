@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: Cal Poly
-// Engineer: Zach Gray, Brady Alexander, Tyler Hamilton
+// Engineer: Zach Gray
 // 
 // Create Date: 06/06/2023 10:22:16 AM
 // Design Name: Slot Machine Top Level Module
